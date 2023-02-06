@@ -12,7 +12,7 @@ Pythonの環境構築不要なGPUも使えるWebサービス（基本無料）
   
 ## 植物画像データに基づく深層学習の応用例.  
 Applications of Deep learning for agriculture.  
-[資料Slides](https://docs.google.com/presentation/d/1woBo0nyx8JyjerjzztP9GvmnLnS_3RZq/edit?usp=sharing&ouid=115552121720483706006&rtpof=true&sd=true)
+[資料Slides](https://drive.google.com/file/d/1yWZHhWCLCUBuISiWav-_2EfupvM39eRO/view?usp=sharing)
 
 ## Classification(分類) 
 Fundamentals of image classification
