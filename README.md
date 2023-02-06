@@ -16,17 +16,17 @@ Applications of Deep learning for agriculture.
 
 ## Classification(分類) 
 Fundamentals of image classification
-###classification  
+### classification  
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikaMasa51/aichi-20230214/blob/main/codes/classification.ipynb) <br>
 
 ## Object detection(物体検出)
 Fundamentals of object detection
-###object_detection  
+### object_detection  
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikaMasa51/aichi-20230214/blob/main/codes/object_detection.ipynb) <br>
 
 ## Semantic segmentation(意味的分割) 
 Fundamentals of semantic segmentation  
-###semantic_segmentation  
+### semantic_segmentation  
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikaMasa51/aichi-20230214/blob/main/codes/semantic_segmentation.ipynb) <br> 
 
 1. [Study_CNN_Explainer](https://utokyo-fieldphenomics-lab.github.io/Study_CNN_Explainer/) (modified with weed dataset)  
