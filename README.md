@@ -35,10 +35,6 @@ original version from Here: [Zijie J. Wang et al., 2020](https://github.com/polo
 2. [畳み込みニューラルネットワーク (Convolutional Neural Networks)](https://www.tensorflow.org/tutorials/images/cnn)
 3. TensorFlow2 for beginner  
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/TensorFlow2beginner.ipynb) <br>  
-1. Image classification  
-[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/weed_classification_01.ipynb) <br>  
-1. Object detection  
-[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/YOLOv5withGlovalWheat.ipynb) <br>  
  
 ## 深層学習を実践する 
 1. Dataset  
@@ -48,9 +44,6 @@ original version from Here: [Zijie J. Wang et al., 2020](https://github.com/polo
 2.1. Use [Google Teachable Machine](https://teachablemachine.withgoogle.com/)   
 2.1.1 try to use the model made from google teachable machine  
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/test_teachable_machine_model.ipynb) <br>
-2.2. Use Google colab  
-[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/weed_classification_02.ipynb) <br>
-[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/weed_classification_04.ipynb) <br>
 
 ## Useful information  
 1. [Yann LeCun 深層学習コース(多言語資料あり)](https://atcold.github.io/pytorch-Deep-Learning/ja/)
