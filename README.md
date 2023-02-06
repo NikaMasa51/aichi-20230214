@@ -29,20 +29,18 @@ Fundamentals of semantic segmentation
 ### semantic_segmentation  
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikaMasa51/aichi-20230214/blob/main/codes/semantic_segmentation.ipynb) <br> 
 
+## 深層学習を実践する（おまけ)
 1. [Study_CNN_Explainer](https://utokyo-fieldphenomics-lab.github.io/Study_CNN_Explainer/) (modified with weed dataset)  
 original version from Here: [Zijie J. Wang et al., 2020](https://github.com/poloclub/cnn-explainer).  
 1. [初心者のための TensorFlow 2.0 入門](https://www.tensorflow.org/tutorials/quickstart/beginner)  
 2. [畳み込みニューラルネットワーク (Convolutional Neural Networks)](https://www.tensorflow.org/tutorials/images/cnn)
 3. TensorFlow2 for beginner  
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/TensorFlow2beginner.ipynb) <br>  
- 
-## 深層学習を実践する 
-1. Dataset  
-1.1. [Weed discrimination dataset](https://drive.google.com/drive/folders/1kAKfIyv2DGHnGB0NPSJAJJcDCA8U2dGe?usp=sharing)  
-1.2. [roboflowPublickDtaset](https://public.roboflow.com/)
-2. Try play with weed discrimination model  
-2.1. Use [Google Teachable Machine](https://teachablemachine.withgoogle.com/)   
-2.1.1 try to use the model made from google teachable machine  
+4. Dataset  
+4.1. [roboflowPublickDtaset](https://public.roboflow.com/)
+5. Try play with weed discrimination model  
+5.1. Use [Google Teachable Machine](https://teachablemachine.withgoogle.com/)   
+5.1.1 try to use the model made from google teachable machine  
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/test_teachable_machine_model.ipynb) <br>
 
 ## Useful information  
