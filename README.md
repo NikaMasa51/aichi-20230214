@@ -1,5 +1,5 @@
-# agri-image
-Image processing for agriculture.  
+# agri-20230214
+Deep learning for agriculture.  
 By Laboratory of Field Phenomics, Graduate School of Agricultural and Life Sciences, The University of Tokyo.  
 Lab [homepage](https://lab.fieldphenomics.com/)  
 **NOTE:**  
@@ -10,36 +10,26 @@ Lab [homepage](https://lab.fieldphenomics.com/)
 なぜGooglecolab？  
 Pythonの環境構築不要なGPUも使えるWebサービス（基本無料）
   
-## 植物画像データに基づくデータ解析の応用例.  
-Applications of Image analysis for agriculture.  
+## 植物画像データに基づく深層学習の応用例.  
+Applications of Deep learning for agriculture.  
 [資料Slides]()
 
-## 植物画像データの画像解析（１）  
-Fundamentals of image analysis(Vectors and matrices operation)  
-1. Googlecolab_fundamentals_1  
-[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/Googlecolab_fundamentals_1_jp.ipynb) <br>
-2. Googlecolab_fundamentals_2  
-[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/Googlecolab_fundamentals_2_jp.ipynb) <br>
+## Classification(分類) 
+Fundamentals of classification
+1. classification  
+[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikaMasa51
+/aichi-20230214/blob/main/codes/classification.ipynb) <br>
 
-## 植物画像データの画像解析（２）  
-Fundamentals of image analysis(Undstand Digital images and Preprossing)
+## Object detection(物体検出)
+Fundamentals of Object detection
 1. Googlecolab_fundamentals_3  
-[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/Googlecolab_fundamentals_3_jp.ipynb) <br>
-2. Googlecolab_fundamentals_4  
-[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/Googlecolab_fundamentals_4_jp.ipynb) <br>  
-3. Googlecolab_fundamentals_5  
-[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/Googlecolab_fundamentals_5.ipynb) <br>  
+[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikaMasa51
+/aichi-20230214/blob/main/codes/object_detection.ipynb) <br>
 
-## 植物画像データの機械学習  
-Image analysis for agriculture: Machine learning  
-[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/Calculate_cc.ipynb) <br> 
-
-## 植物画像データの深層学習  
-Image analysis for agriculture: Deep learning  
-Demo1:  
-[Example:雑草識別モデル (Weed recognization demo)](https://teachablemachine.withgoogle.com/models/1u_hCfzqq/)  
-Demo2:  
-[Example:ムギ穂検出モデル(wheat head detection)](https://demo.roboflow.com/gwhd2021/2?publishable_key=rf_weZnIlXkTFd6iBv8A6VW4nGUH673)  
+## Semantic segmentation(意味的分割) 
+Fundamentals of Semantic segmentation  
+[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikaMasa51
+/aichi-20230214/blob/main/codes/semantic_segmentation.ipynb) <br> 
 
 1. [Study_CNN_Explainer](https://utokyo-fieldphenomics-lab.github.io/Study_CNN_Explainer/) (modified with weed dataset)  
 original version from Here: [Zijie J. Wang et al., 2020](https://github.com/poloclub/cnn-explainer).  
@@ -51,18 +41,7 @@ original version from Here: [Zijie J. Wang et al., 2020](https://github.com/polo
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/weed_classification_01.ipynb) <br>  
 1. Object detection  
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/YOLOv5withGlovalWheat.ipynb) <br>  
-  
-
-## 多次元画像データの解析（三次元点群中心）  
-Image analysis for agriculture: Multi-dimensional imaging  
-[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/agri-image/blob/main/codes/PointCloudProcess.ipynb) <br>
-
-## 植物画像データの収集.  
-Data collection  
-[資料Slides]()
-1. UAVPP, Breeder-Friendly-Plant-Phenotyping-tools for UAV, [Wiki page](https://github.com/oceam/UAVPP/wiki/).　　
-2. UGVPP, field phenotyping rover, [homepage](https://github.com/UTokyo-FieldPhenomics-Lab/UGVPP).　　
-
+ 
 ## 深層学習を実践する 
 1. Dataset  
 1.1. [Weed discrimination dataset](https://drive.google.com/drive/folders/1kAKfIyv2DGHnGB0NPSJAJJcDCA8U2dGe?usp=sharing)  
