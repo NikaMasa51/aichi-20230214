@@ -27,7 +27,7 @@ Fundamentals of object detection
 ## Semantic segmentation(意味的分割) 
 Fundamentals of semantic segmentation  
 ### semantic_segmentation  
-[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikaMasa51/aichi-20230214/blob/main/codes/semantic_segmentation.ipynb) <br> 
+[![image]() <br> 
 
 ## 深層学習を実践する（おまけ)
 1. [Study_CNN_Explainer](https://utokyo-fieldphenomics-lab.github.io/Study_CNN_Explainer/) (modified with weed dataset)  
